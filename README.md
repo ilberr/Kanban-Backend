@@ -18,6 +18,10 @@ Unit tests is implemented with JUnit and SpringBoot Test infrastructure.
 
 Maven is used as build tool for the back-end.
 
+Bean Validation API is used on Task entity to enable validation.
+
+SpringFox is used to enable swagger-ui documentation for exposed REST API
+
 
 
 
