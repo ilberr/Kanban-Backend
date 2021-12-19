@@ -6,17 +6,17 @@ This is a Kanban Board with spring
 
 Back-end is structured around SpringBoot, and bootsrapped by Spring Initializr.
 
-Domain layer will be implemented with JPA Entities.
+Domain layer is implemented with JPA Entities.
 
-Data layer will be implemented with JPA Repositories.
+Data layer is implemented with JPA Repositories.
 
-Service layer will be implemented with Spring Services.
+Service layer is implemented with Spring Services.
 
-Controller layer will be implemented with Spring Rest Controllers.
+Controller layer is implemented with Spring Rest Controllers.
 
-Unit tests will be implemented with JUnit and SpringBoot Test infrastructure.
+Unit tests is implemented with JUnit and SpringBoot Test infrastructure.
 
-Maven will be used as build tool for the back-end.
+Maven is used as build tool for the back-end.
 
 
 
